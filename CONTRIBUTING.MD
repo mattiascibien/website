@@ -10,8 +10,8 @@ they should reciprocate that respect in addressing your issue.
 
 ## Using the issue tracker
 
-The issue tracker is the preferred channel for [bug reports](#bugs),
-[features requests](#features), but please respect the following restrictions:
+The issue tracker is the preferred channel for [bug reports](#bugs) and
+[features requests](#features) but please respect the following restrictions:
 
 * Please **do not** use the issue tracker for personal support requests.
 
